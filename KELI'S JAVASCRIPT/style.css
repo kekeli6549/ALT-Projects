@@ -1,0 +1,16 @@
+.hello{
+    font-family: 'Times New Roman', Times, serif;font-size: 50px;
+}
+#demo{
+    background-color: coral;
+    width:  590px;
+    height:  550px;
+}
+.button{
+    background-color: rgb(127, 255, 148);
+    margin-top: 37px;
+    color: rgb(6, 55, 102);
+    width: 108px;
+    height: 145px;
+    border-radius: 33cm;
+}
