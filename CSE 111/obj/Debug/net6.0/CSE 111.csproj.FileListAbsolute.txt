@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.AssemblyInfo.cs
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROJECTS\CSE 111\bin\Debug\net6.0\CSE 111.exe
+C:\Users\USER\Documents\PROJECTS\CSE 111\bin\Debug\net6.0\CSE 111.deps.json
+C:\Users\USER\Documents\PROJECTS\CSE 111\bin\Debug\net6.0\CSE 111.runtimeconfig.json
+C:\Users\USER\Documents\PROJECTS\CSE 111\bin\Debug\net6.0\CSE 111.dll
+C:\Users\USER\Documents\PROJECTS\CSE 111\bin\Debug\net6.0\CSE 111.pdb
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.dll
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\refint\CSE 111.dll
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.pdb
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\CSE 111.genruntimeconfig.cache
+C:\Users\USER\Documents\PROJECTS\CSE 111\obj\Debug\net6.0\ref\CSE 111.dll
